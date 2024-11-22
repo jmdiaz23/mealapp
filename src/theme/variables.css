@@ -1,0 +1,11 @@
+/* For information on how to create your own theme, please see:
+http://ionicframework.com/docs/theming/ */
+
+:root {
+    --ion-color-primary: #ff6347; /* Un color cálido como Tomato */
+    --ion-color-secondary: #ffc107; /* Un amarillo brillante */
+    --ion-color-dark: #333333;
+    --ion-color-medium: #666666;
+    --ion-background-color: #f9f9f9; /* Fondo gris claro */
+  }
+  
